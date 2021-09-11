@@ -52,3 +52,7 @@ in the container
  # npm install -g @akashic/bmpfont-generator
 ```
 
+if error ocuur during npm install, run following command.
+```
+ # npm install -g npm
+```
